@@ -2,7 +2,7 @@
 #### This is a Gig Economy Analysis framed in Figma and visualised using Tableau (<a href="https://public.tableau.com/app/profile/samuel.ofori2139/viz/GigEconomyDashboard/ExecutiveView?publish=yes" target="_blank">Click to interact on Tableau Public<a/>)
 ---
 ## Introduction
-The Gig economy, built around short-term, flexible, and freelance jobs instead of traditional, long-term employment is a key feature of the digital labor market. As a work model, the gig economy offers workers flexibility and autonomy, while giving businesses cost-effective access to talent and services when they need them. This analysis is aimed at providing insights into this market across 5 different geographical areas, aiming to provide information to both freelancers and businesses that patronise their services across these platforms: . Data for the visualisation was sourced from two sources:
+The Gig economy, built around short-term, flexible, and freelance jobs instead of traditional, long-term employment is a key feature of the digital labor market. As a work model, the gig economy offers workers flexibility and autonomy, while giving businesses cost-effective access to talent and services when they need them. This analysis is aimed at providing insights into this market across 5 different geographical areas, aiming to provide information to both freelancers and businesses that patronise their services across these platforms: Fiverr; General Freelancers; PeoplePerHour; Totptal; and Upwork. Data for the visualisation was sourced from two sources:
 <ol>
   <li> Freelancer Details Data </li>
   <p>
@@ -61,5 +61,18 @@ The project was executed in six(6) steps spanning three tools: Microsoft Excel, 
 </ol>
 
 ## Wireframe in Figma 
+Taking advantage of the flexibility offered by designing in Figma, I desined my dashboard first in Figma then imported into Tableau. 
+<img src="WireFrame - Gig Eco. Dashboard.png"> 
+<details> <summary> 📂 Each page is here for those interested </summary>
+  <img src="Sheet 1 Final.png">
+  <img src="Sheet 2.png">
+</details>
 
+## Dashboard 
+The dashboard has two views, the Executive View and the Geographic View.
+<ol>
+  <li> The Executive View captures key insights about the data including the number of freelancers, the median job rates, the distribution of earnings across job types and experience, the job success ratings and the number of jobs completed.
+    <img src=>
+  </li>
+</ol>
 
