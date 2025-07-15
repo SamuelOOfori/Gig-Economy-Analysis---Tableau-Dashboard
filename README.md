@@ -35,7 +35,7 @@ The Gig economy, built around short-term, flexible, and freelance jobs instead o
   </p>
 </ol>
 
-## Problem Statement & Rationale for Project
+## Problem Statement
 
 The Gig economy has grown rapidly since the dawn of the internet, broadening access to talent for businesses and work oppotunities for professionals. Freelancers and businesses nonetheless often struggle to predict job success rates across platforms, demand for certain skills, factors for success and often the most reliable platforms for freelancing. This has called for data-driven insights to forecast freelancer job trends and earnings, to which this analysis sought to answer. 
 
@@ -49,4 +49,6 @@ This analysis in its attempt to answer the call for data-driven insights within 
   <li>Provide a geographic overview of the Gig economy.</li>   
 </ol>
 
+## Project Plan 
+The project was executed in six(6) steps spanning three tools: Microsoft Excel, Figma and Tableau. 
 
