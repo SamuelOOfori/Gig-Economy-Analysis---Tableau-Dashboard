@@ -51,4 +51,15 @@ This analysis in its attempt to answer the call for data-driven insights within 
 
 ## Project Plan 
 The project was executed in six(6) steps spanning three tools: Microsoft Excel, Figma and Tableau. 
+<ol>
+  <li> First step involved a assessment of the Gig economy and the nature of this economy across contexts. This step largely involved reading articles and publications related to the subject matter to identify key parameters relevant in this field </li>
+  <li>Next step involved data exploration to identify strengths and shortcomings of the data, followed by data cleaning and transformation in Microsoft Excel </li>
+  <li>Next, the data importated into Tableau with necessary assigment of data types to ensure uniformity and coherence in analysis. A join was then initiated at the physcial level using the Freelance ID as the primary key </li>
+  <li> Relevant charts were next enivsaged (planned) with relevant KPIs selected and then created in Tableau </li>
+  <li> A wireframe for the visualisation was then created in Figma using the visualisation plan created in the previous step. The dashboard was sectioned into an executive and geographic view</li>
+  <li> The dashboard was finally built in Tableau with key insights gleaned and drafted into a PowerPoint presentation </li>
+</ol>
+
+## Wireframe in Figma 
+
 
