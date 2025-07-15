@@ -19,7 +19,7 @@ The Gig economy, built around short-term, flexible, and freelance jobs instead o
   </p>
   <li> Job & Earning Data </li>
   <p>
-    <details><summary> <strong>Data Dictionary</strong>
+    <details><summary> 📂 <emphasis> Data Dictionary</emphasis></summary>
       <ol>
           <li>Freelance_ID </li>
           <li>Job Completed [Number of Jobs Successfully Completed] </li>
@@ -29,7 +29,7 @@ The Gig economy, built around short-term, flexible, and freelance jobs instead o
           <li> Client Rating </li>
           <li> Job Duration_Days </li>
           <li> Rehire Rate </li>  
-          <li> marketing Spend [Amount spent on marketing ($)]</li>
+          <li> Marketing Spend [Amount spent on marketing ($)]</li>
         </ol>
     </details>
   </p>
