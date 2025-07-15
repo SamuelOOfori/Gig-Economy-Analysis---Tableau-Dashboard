@@ -72,7 +72,7 @@ Taking advantage of the flexibility offered by designing in Figma, I desined my 
 The dashboard has two views, the Executive View and the Geographic View.
 <ol>
   <li> The Executive View captures key insights about the data including the number of freelancers, the median job rates, the distribution of earnings across job types and experience, the job success ratings and the number of jobs completed.
-    <img src="Executive View.png">
+    <img src="Exec. View.png">
   </li>
   <li> The Geographic View focuses on presenting an overview marketing expenditure for freelancers and the relationship with earnings, as well as the nature of the rehire rate across the geographic distribution of the data
   <img src="Geographic View.png"
@@ -80,6 +80,7 @@ The dashboard has two views, the Executive View and the Geographic View.
 </ol>
 
 ## Analysis and Key Insights
+
 
 ## Recommendations
 
