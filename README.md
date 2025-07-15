@@ -1,2 +1,52 @@
-# Gig-Economy-Analysis---Tableau-Dashboard
-This is a Gig Economy Analysis framed in Figma and visualised using Tableau (<a href="https://public.tableau.com/app/profile/samuel.ofori2139/viz/GigEconomyDashboard/ExecutiveView?publish=yes" target="_blank">Click to interact on Tableau Public<a/>)
+# Gig_Economy_Analysis-Tableau-Dashboard
+#### This is a Gig Economy Analysis framed in Figma and visualised using Tableau (<a href="https://public.tableau.com/app/profile/samuel.ofori2139/viz/GigEconomyDashboard/ExecutiveView?publish=yes" target="_blank">Click to interact on Tableau Public<a/>)
+---
+## Introduction
+The Gig economy, built around short-term, flexible, and freelance jobs instead of traditional, long-term employment is a key feature of the digital labor market. As a work model, the gig economy offers workers flexibility and autonomy, while giving businesses cost-effective access to talent and services when they need them. This analysis is aimed at providing insights into this market across 5 different geographical areas, aiming to provide information to both freelancers and businesses that patronise their services across these platforms: . Data for the visualisation was sourced from two sources:
+<ol>
+  <li> Freelancer Details Data </li>
+  <p>
+        <details><summary>📂<emphasis>Data Dictionary</emphasis>  </summary>
+        <ol>
+          <li>Freelance_ID </li>
+          <li>Job Category [Type of freelance work done]</li>
+          <li>Platform [Online Platform for Freelancing]</li>
+          <li>Experience Level [Experience level of Freelancer] </li>
+          <li> Client Region</li>
+          <li>Payment Method</li>
+        </ol>
+      </details>
+  </p>
+  <li> Job & Earning Data </li>
+  <p>
+    <details><summary> <strong>Data Dictionary</strong>
+      <ol>
+          <li>Freelance_ID </li>
+          <li>Job Completed [Number of Jobs Successfully Completed] </li>
+          <li> Earnings ($) </li>
+          <li> Hourly Rate ($) </li>
+          <li> Job Success Rate </li>
+          <li> Client Rating </li>
+          <li> Job Duration_Days </li>
+          <li> Rehire Rate </li>  
+          <li> marketing Spend [Amount spent on marketing ($)]</li>
+        </ol>
+    </details>
+  </p>
+</ol>
+
+## Problem Statement & Rationale for Project
+
+The Gig economy has grown rapidly since the dawn of the internet, broadening access to talent for businesses and work oppotunities for professionals. Freelancers and businesses nonetheless often struggle to predict job success rates across platforms, demand for certain skills, factors for success and often the most reliable platforms for freelancing. This has called for data-driven insights to forecast freelancer job trends and earnings, to which this analysis sought to answer. 
+
+## Rationale for Project
+
+This analysis in its attempt to answer the call for data-driven insights within this field aimed to: 
+<ol>
+  <li>Analyse freelancer job trends;</li>
+  <li>Assess freelancer earnings;</li>
+  <li>Identify key success factors;</li>
+  <li>Provide a geographic overview of the Gig economy.</li>   
+</ol>
+
+
