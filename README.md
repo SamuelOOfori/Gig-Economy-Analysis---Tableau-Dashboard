@@ -80,8 +80,28 @@ The dashboard has two views, the Executive View and the Geographic View.
 </ol>
 
 ## Analysis and Key Insights
+There are 1950 freelancers within the dataset with clients spanning USA, Australia, Canada, Middle East, United Kingdom and other parts of Europe. These freelancers have completed a total of 294K jobs at an average earnings of $5,000. A deep dive into the data is presented below: 
+### Earnings Analysis 
+Earnings tend to be data points that often exhibit a high level of variability. Although the variability in the data is relatively small, as the median and mean are quite similar, the median was employed for a more reliable analysis when the data is drilled down. In cases where the median was very similar across the variables, the average was employed to explore possible differences. The earnings analysis showed that: 
+<ol>
+  <li>
+    The median earnings across the freelancers was $5K at a median rate of $52.29/hr.
+  </li>
+  <li> 
+    The job type that earned freelancers the most was <i> Application Development </i> at $5.2K whiles <i> Search Engine Optimisation </i> earned the least at $4.2K and had the least amount earned for a job at $51. It is however worth noting that at a similar of average of $5.1K, <i>Graphic Design</i> has a higher lower earn as compared to <i>Customer Support</i>,  and <i>Digital Marketing</i>
+  </li>
+  <li>
+   Hourly rate for jobs sat between $99/hr and $5/hr, with the latter found only within the intermediate experienced freelancers. Interestly, beginners had the highest hourly rate at $8/hr. Median hourly rate and experience showed an interesting relationship based on the platform where freelancers worked. The analysis showed that regardless of experience, on <i>PeoplePerHour</i> were in the top two for high hourly rates. Totptal on the other hand had a majorly low hourly rate for <i>Beginners</i> and <i>Intermediate</i> freelancers. For <i>Beginners</i>, <i>Fiver</i> seemed most favorable for higher hourly rates whiles <i>PeoplePerHour</i> provided a higher average hourly rate for <i>Experts</i>.
+  </li>
+</ol>
 
+### Job Success Rate Analysis 
 
-## Recommendations
+### Marketing Spend Analysis
+
+### Platform + Location Based Analysis 
+With a median hourly rate of $49.12/hr for Application Develo, freelancers with intermediate experience averagely gained higher hourly rates as Freelancers. Whiles SEO had a
+
+## Final Words
 
 <a href="https://public.tableau.com/app/profile/samuel.ofori2139/vizzes" target="_blank"> You can access other visualisations of mine on Tableau Public (click here) </a>. 
